@@ -2,3 +2,8 @@ circle
 oval
 rectangle
 square
+
+bipyramid
+star prism
+tetrahedron
+stellation
