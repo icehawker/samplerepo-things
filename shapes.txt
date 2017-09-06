@@ -2,8 +2,12 @@ circle
 oval
 rectangle
 square
+<<<<<<< HEAD
 
 bipyramid
 star prism
 tetrahedron
 stellation
+=======
+triangle
+>>>>>>> master
